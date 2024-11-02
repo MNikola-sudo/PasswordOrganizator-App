@@ -1,6 +1,8 @@
 # PasswordOrganizator-App
 Password Organizer is a simple application written in Python that allows for the secure storage and generation of passwords in a CSV file, with customizable password length and file name options.
 
+
+![project2-2](https://github.com/user-attachments/assets/9976c54d-0cba-450b-a457-bf20f2febec4)
 # Usage
 
 Adding a Password:
